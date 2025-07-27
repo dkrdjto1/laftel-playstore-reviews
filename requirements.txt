@@ -1,0 +1,10 @@
+selenium
+beautifulsoup4
+google-play-scraper
+seaborn
+jpype1==1.4.1
+konlpy==0.6.0
+tqdm
+plotly
+pillow --upgrade
+wordcloud --upgrade
